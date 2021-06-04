@@ -3,7 +3,7 @@
 
 # Test answers
 Screenshot
-![](screenshots/Annotation 2021-06-04 185403)
+![](screenshots/Annotation1)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
